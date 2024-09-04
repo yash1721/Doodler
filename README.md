@@ -1,12 +1,5 @@
 # 🎨 Doodler - Multiplayer Web Game 
 
-<<<<<<< HEAD
-<!-- ## 📚 Webster 2K23 Project Submission -->
-
- **Project Name:** Doodler
-=======
-
->>>>>>> 82d38a706231fd097e44e75beec309669efca264
 
 ### 👥 Team Member
 - **Yash Kumar** - [GitHub Profile](https://github.com/yash1721/)
