@@ -58,6 +58,7 @@ Explore images from the site: [View Screenshots](https://drive.google.com/drive/
    git clone https://github.com/your-repo/doodler.git
 
 2. **Install Dependencies:** Navigate to the root, client, and server directories, then run:
+    ```bash
     cd Doodler       # Navigate to the project root directory
     npm install      # Install dependencies for the root
     cd client        # Navigate to the client directory
@@ -66,10 +67,12 @@ Explore images from the site: [View Screenshots](https://drive.google.com/drive/
     npm install      # Install dependencies for the server
 
 3. **Setup Environment Variables:** Create a .env file in the Doodler/server directory and add your             configurations. Example .env file:
+    ```bash
     PORT=5000
     MONGO_URI=your_mongodb_connection_string
     JWT_SECRET=your_jwt_secret
 
 4. **Run the Application:** From the Doodler directory, run:
+    ```bash
     npm start
 
