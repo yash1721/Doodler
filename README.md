@@ -1,13 +1,13 @@
-# Doodler - Multiplayer Web Game 🎨
+# 🎨 Doodler - Multiplayer Web Game 
 
-- **Project Name:** Doodler
+
 
 ### 👥 Team Member
 - **Yash Kumar** - [GitHub Profile](https://github.com/yash1721/)
 
 ## 📜 About the Project
 
-**Doodler** is an engaging multiplayer web game that blends creativity and competition. In this game, one player draws an object, and other players race against the clock to guess what the object is. The faster and more accurately they guess, the more points they earn. Doodler challenges artistic and observational skills, offering a thrilling mix of creativity and quick thinking. It promises endless fun for players of all ages.
+**Doodler** is an exciting multiplayer web game that merges artistic flair with competitive spirit. In this engaging game, players take turns as the "Artist," sketching objects while others, the "Guessers," race against the clock to identify them. With a variety of drawing tools and fast-paced gameplay, Doodler challenges both creativity and quick thinking, rewarding players with points for swift and accurate guesses. Featuring modes like "Play with Friends" and "Play Online," Doodler ensures endless fun and lively competition, making it the perfect choice for players of all ages looking for a blend of artistic expression and thrilling gameplay.
 
 ## 🎥 Video Demonstration
 
