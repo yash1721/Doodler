@@ -1,7 +1,5 @@
 # Doodler - Multiplayer Web Game 🎨
 
-## 📚 Webster 2K23 Project Submission
-
 - **Project Name:** Doodler
 
 ### 👥 Team Member
