@@ -1,0 +1,62 @@
+body {
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.001),
+      rgba(255, 255, 255, 0.001)
+    ),
+    url("./background.png") center/cover no-repeat;
+  height: 100vh;
+  background-blend-mode: overlay;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 10s linear;
+  }
+}
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(5vw + 5vh + 10px);
+  color: white;
+  font-family: Agbalumo;
+  width: 40vw;
+  text-shadow: 3px 3px 5px #4b4949;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.playbtn{
+  width: 80%;
+  height: 3rem;
+  margin: 20px auto;
+  cursor: pointer;
+  color: white;
+  border-radius: 20px;
+}
+
+.inputbtn{
+  width: 80%;
+  height: 3rem;
+  margin: 2%;
+  color: black;
+  border-radius: 10px;
+}
+
+.updbtn{
+  width: 80%;
+  height: 4vh;
+  margin: 1vh auto;
+  cursor: pointer;
+  color: white;
+  border-radius: 20px;
+}
