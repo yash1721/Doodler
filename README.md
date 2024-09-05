@@ -10,11 +10,11 @@
 
 ## 🎥 Video Demonstration
 
-Check out the project in action: [Watch the Video](https://drive.google.com/drive/folders/1ijB97ziIfwLNaNVH4vWFgyzaD0HsueDK)
+Check out the project in action: [Watch the Video](https://drive.google.com/file/d/1g7Hyl8rYMBylPki7G8qBC7A5nF2RmOBh/view?usp=sharing)
 
 ## 📸 Screenshots
 
-Explore images from the site: [View Screenshots](https://drive.google.com/drive/folders/122Nu5mHcoJPQwgyVg9vAnTSFg_o1yeo7)
+Explore images from the site: [View Screenshots](https://drive.google.com/drive/folders/19f_94oF8nRNX_luCccj3ckvd0JEpD4j2?usp=drive_link)
 
 ## 🚀 Current Features
 
