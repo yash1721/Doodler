@@ -72,4 +72,24 @@ Explore images from the site: [View Screenshots](https://drive.google.com/drive/
 4. **Run the Application:** From the Doodler directory, run:
     ```bash
     npm start
+5. **Access the Application :**
+   Navigate to http://localhost:3000 in your browser.
 
+## 🤝 **Contribution**
+
+We welcome all contributions to improve **Cryptex**! Whether you're fixing a bug, adding a new feature, or enhancing existing functionality, your efforts are highly appreciated.
+
+### **Fork the Repository**
+Fork the repository and clone it to your local machine:
+```bash
+git clone https://github.com/your-repository-link.git
+```
+### **Create a Branch**
+Create a new branch for your feature or fix:
+```bash
+git checkout -b feature-branch-name
+```
+### **Make Your Changes**
+Implement your changes and ensure everything is working properly by thoroughly testing them.
+### **Submit a Pull Request**
+Once you're satisfied with your changes, submit a PR with a clear and detailed description of what you've done.
